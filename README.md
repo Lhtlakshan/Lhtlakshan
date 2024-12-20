@@ -4,7 +4,6 @@
 - 📫 How to reach me **thilinalakshanhewage1999@gmail.com**
 
 <h1 align="center">Hi 👋, I'm Thilina Hewage.</h1>
-<br>
 <h3 align="center">A passionate full-stack developer from Sri Lanka.</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -19,26 +18,13 @@
 
 <br>
 
-<h3 align="center">GitHub Analytics</h3>
-
-<p align="center">
-<a href="https://github.com/Lhtlakshan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lhtlakshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lhtlakshan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br>
-
-<h3 align="center">Git profile Trophies</h3>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Lhtlakshan&theme=juicyfresh&no-bg=true" />
-<p/>
-
 <p align="center">
  <h3 align="center">Git Activeness</h3>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhtlakshan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lhtlakshan&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br>
+
+<br>
 
 
