@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thilina Lakshan Hewage
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently Trainee Software Engineer ( Backend development Java , Spring boot , Hibernate , MySql )
 - 📫 How to reach me **thilinalakshanhewage1999@gmail.com**
 
 <h1 align="center">Hi 👋, I'm Thilina Hewage.</h1>
