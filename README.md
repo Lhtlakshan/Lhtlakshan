@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently Trainee Software Engineer ( Backend development Java , Spring boot , Hibernate , MySql )
 - 📫 How to reach me **thilinalakshanhewage1999@gmail.com**
+- 📫 **https://lhtlakshan.github.io/portfolio-web/**
 
 <h1 align="center">Hi 👋, I'm Thilina Hewage.</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
